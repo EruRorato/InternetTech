@@ -12,7 +12,17 @@ namespace notes.Controllers
         {
             return View();
         }
+        
+        public ActionResult Create()
+        {
+            return View();
+        }
 
+        public ActionResult Selected(string label)
+        {
+            ViewBag.Label = label;
+            return View("Index");
+        }
         public ActionResult Img(string txt)
         {
             if (txt == null) { txt = "Notes"; }

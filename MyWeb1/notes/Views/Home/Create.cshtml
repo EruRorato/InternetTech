@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Web Notepads";
+    notes.Models.DataFactory.LoadNotes();
+}
+
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/knockout-3.4.0.js"></script>
+    <script src="~/Scripts/Notepad.js"></script>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div class="CreateNotepad">
+        @Html.Partial("_CreateNote")
+    </div>
+    
+    <script>
+        init();
+    </script>
+</body>
+</html>

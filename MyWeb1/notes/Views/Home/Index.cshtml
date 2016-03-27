@@ -15,15 +15,7 @@
 </head>
 <body>
     <div class="CreateNotepad">
-        <form class="form-inline">
-            <div class="form-group">
-                <div class="input-group">
-                    <div class="input-group-addon">Notepad Name: </div>
-                    <input type="text" class="form-control" id="exampleInputAmount" placeholder="Name" data-bind="value: noteName">
-                    <button class="btn btn-primary" data-bind="click: createNote">Create</button>
-                </div>
-            </div>
-        </form>
+        @Html.Partial("_CreateNote")
     </div>
     <div class="NoteText">
         <div class="imgcenter">
@@ -35,9 +27,9 @@
     <div class="existNotes" data-bind="foreach: noteArray">
         <button class="btn btn-primary" data-bind="text: Label, attr: { name: Label },click: $parent.selectNote"></button>
     </div>
-    
     <script>
-        init();
+        var label = '@ViewBag.Label'
+        init(label);
     </script>
 </body>
 </html>

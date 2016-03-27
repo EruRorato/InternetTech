@@ -5,9 +5,10 @@
 //    });
 //}
 
-function init() {
+function init(label) {
     ko.applyBindings(view);
     view.SyncNotes();
+    if (label != null) { view.selectNote(null, null, label);}
 }
 
 var model = {
@@ -54,8 +55,9 @@ function View() {
             catch (err) { alert("Sync Error!"); }
         });
     }
-    this.selectNote = function (data, element) {
-        var label = $(element.target).text();
+    this.selectNote = function (data, element,lab) {
+        if (lab == null) { var label = $(element.target).text(); }
+        else { var label = lab;}
         self.selectedNote(label);
         self.noteImg('/Home/Img/' + label);
         model.getNoteContent(label).success(function (data) {
