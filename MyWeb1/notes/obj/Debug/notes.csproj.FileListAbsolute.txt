@@ -1,0 +1,366 @@
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\notes.dll.config
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\notes.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\notes.pdb
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Antlr3.Runtime.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.Owin.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.Owin.Security.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.Owin.Security.Google.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Owin.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Net.Http.Formatting.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Web.Helpers.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Web.Http.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Web.Http.WebHost.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Web.Mvc.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Web.Optimization.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Web.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Web.WebPages.Deployment.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Web.WebPages.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Web.WebPages.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\WebGrease.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Web.Helpers.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Web.Mvc.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Web.Optimization.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Web.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Web.WebPages.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Web.WebPages.Deployment.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Web.WebPages.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Antlr3.Runtime.pdb
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Net.Http.Formatting.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Web.Http.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\System.Web.Http.WebHost.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.Owin.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.Owin.Security.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.Owin.Security.Google.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\user\documents\visual studio 2015\Projects\notes\obj\Debug\notes.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\notes\obj\Debug\notes.dll
+c:\users\user\documents\visual studio 2015\Projects\notes\obj\Debug\notes.pdb
+E:\4k\MVC\notes\bin\roslyn\csc.exe
+E:\4k\MVC\notes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\4k\MVC\notes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\4k\MVC\notes\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\4k\MVC\notes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\4k\MVC\notes\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\4k\MVC\notes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\4k\MVC\notes\bin\roslyn\System.Collections.Immutable.dll
+E:\4k\MVC\notes\bin\roslyn\System.Reflection.Metadata.dll
+E:\4k\MVC\notes\bin\roslyn\vbc.exe
+E:\4k\MVC\notes\bin\roslyn\VBCSCompiler.exe
+E:\4k\MVC\notes\bin\roslyn\VBCSCompiler.exe.config
+E:\4k\MVC\notes\bin\notes.dll.config
+E:\4k\MVC\notes\bin\notes.dll
+E:\4k\MVC\notes\bin\notes.pdb
+E:\4k\MVC\notes\bin\Antlr3.Runtime.dll
+E:\4k\MVC\notes\bin\EntityFramework.dll
+E:\4k\MVC\notes\bin\EntityFramework.SqlServer.dll
+E:\4k\MVC\notes\bin\Microsoft.AspNet.Identity.Core.dll
+E:\4k\MVC\notes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\4k\MVC\notes\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\4k\MVC\notes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\4k\MVC\notes\bin\Microsoft.Owin.dll
+E:\4k\MVC\notes\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\4k\MVC\notes\bin\Microsoft.Owin.Security.Cookies.dll
+E:\4k\MVC\notes\bin\Microsoft.Owin.Security.dll
+E:\4k\MVC\notes\bin\Microsoft.Owin.Security.Facebook.dll
+E:\4k\MVC\notes\bin\Microsoft.Owin.Security.Google.dll
+E:\4k\MVC\notes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\4k\MVC\notes\bin\Microsoft.Owin.Security.OAuth.dll
+E:\4k\MVC\notes\bin\Microsoft.Owin.Security.Twitter.dll
+E:\4k\MVC\notes\bin\Microsoft.Web.Infrastructure.dll
+E:\4k\MVC\notes\bin\Newtonsoft.Json.dll
+E:\4k\MVC\notes\bin\Owin.dll
+E:\4k\MVC\notes\bin\System.Net.Http.Formatting.dll
+E:\4k\MVC\notes\bin\System.Web.Helpers.dll
+E:\4k\MVC\notes\bin\System.Web.Http.dll
+E:\4k\MVC\notes\bin\System.Web.Http.WebHost.dll
+E:\4k\MVC\notes\bin\System.Web.Mvc.dll
+E:\4k\MVC\notes\bin\System.Web.Optimization.dll
+E:\4k\MVC\notes\bin\System.Web.Razor.dll
+E:\4k\MVC\notes\bin\System.Web.WebPages.Deployment.dll
+E:\4k\MVC\notes\bin\System.Web.WebPages.dll
+E:\4k\MVC\notes\bin\System.Web.WebPages.Razor.dll
+E:\4k\MVC\notes\bin\WebGrease.dll
+E:\4k\MVC\notes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\4k\MVC\notes\bin\Newtonsoft.Json.xml
+E:\4k\MVC\notes\bin\System.Web.Helpers.xml
+E:\4k\MVC\notes\bin\System.Web.Mvc.xml
+E:\4k\MVC\notes\bin\System.Web.Optimization.xml
+E:\4k\MVC\notes\bin\System.Web.Razor.xml
+E:\4k\MVC\notes\bin\System.Web.WebPages.xml
+E:\4k\MVC\notes\bin\System.Web.WebPages.Deployment.xml
+E:\4k\MVC\notes\bin\System.Web.WebPages.Razor.xml
+E:\4k\MVC\notes\bin\Antlr3.Runtime.pdb
+E:\4k\MVC\notes\bin\System.Net.Http.Formatting.xml
+E:\4k\MVC\notes\bin\System.Web.Http.xml
+E:\4k\MVC\notes\bin\System.Web.Http.WebHost.xml
+E:\4k\MVC\notes\bin\EntityFramework.xml
+E:\4k\MVC\notes\bin\EntityFramework.SqlServer.xml
+E:\4k\MVC\notes\bin\Microsoft.AspNet.Identity.Core.xml
+E:\4k\MVC\notes\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\4k\MVC\notes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\4k\MVC\notes\bin\Microsoft.Owin.xml
+E:\4k\MVC\notes\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\4k\MVC\notes\bin\Microsoft.Owin.Security.xml
+E:\4k\MVC\notes\bin\Microsoft.Owin.Security.Facebook.xml
+E:\4k\MVC\notes\bin\Microsoft.Owin.Security.Cookies.xml
+E:\4k\MVC\notes\bin\Microsoft.Owin.Security.OAuth.xml
+E:\4k\MVC\notes\bin\Microsoft.Owin.Security.Google.xml
+E:\4k\MVC\notes\bin\Microsoft.Owin.Security.Twitter.xml
+E:\4k\MVC\notes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\4k\MVC\notes\bin\ru\System.Web.Helpers.resources.dll
+E:\4k\MVC\notes\bin\ru\System.Web.Mvc.resources.dll
+E:\4k\MVC\notes\bin\ru\System.Web.Optimization.resources.dll
+E:\4k\MVC\notes\bin\ru\System.Web.Razor.resources.dll
+E:\4k\MVC\notes\bin\ru\System.Web.WebPages.resources.dll
+E:\4k\MVC\notes\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\4k\MVC\notes\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\4k\MVC\notes\bin\ru\System.Net.Http.Formatting.resources.dll
+E:\4k\MVC\notes\bin\ru\System.Web.Http.resources.dll
+E:\4k\MVC\notes\bin\ru\System.Web.Http.WebHost.resources.dll
+E:\4k\MVC\notes\bin\ru\EntityFramework.resources.dll
+E:\4k\MVC\notes\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\4k\MVC\notes\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+E:\4k\MVC\notes\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\4k\MVC\notes\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\4k\MVC\notes\bin\ru\Microsoft.Owin.resources.dll
+E:\4k\MVC\notes\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\4k\MVC\notes\bin\ru\Microsoft.Owin.Security.resources.dll
+E:\4k\MVC\notes\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+E:\4k\MVC\notes\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+E:\4k\MVC\notes\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+E:\4k\MVC\notes\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\4k\MVC\notes\obj\Debug\notes.dll
+E:\4k\MVC\notes\obj\Debug\notes.pdb
+E:\4k\MVC\notes\obj\Debug\notes.csprojResolveAssemblyReference.cache
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\roslyn\csc.exe
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\roslyn\vbc.exe
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\notes.dll.config
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\notes.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\notes.pdb
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Antlr3.Runtime.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\EntityFramework.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\EntityFramework.SqlServer.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.Owin.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.Owin.Security.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Newtonsoft.Json.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Owin.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Net.Http.Formatting.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Web.Helpers.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Web.Http.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Web.Http.WebHost.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Web.Mvc.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Web.Optimization.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Web.Razor.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Web.WebPages.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\WebGrease.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Newtonsoft.Json.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Web.Helpers.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Web.Mvc.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Web.Optimization.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Web.Razor.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Web.WebPages.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Antlr3.Runtime.pdb
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Net.Http.Formatting.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Web.Http.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\System.Web.Http.WebHost.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\EntityFramework.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\EntityFramework.SqlServer.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.Owin.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.Owin.Security.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\System.Web.Http.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\EntityFramework.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\obj\Debug\notes.csprojResolveAssemblyReference.cache
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\obj\Debug\notes.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech\MyWeb1\notes\obj\Debug\notes.pdb
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\roslyn\csc.exe
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\roslyn\vbc.exe
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\notes.dll.config
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\notes.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\notes.pdb
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Antlr3.Runtime.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\EntityFramework.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\EntityFramework.SqlServer.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.Owin.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.Owin.Security.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Newtonsoft.Json.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Owin.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Net.Http.Formatting.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Web.Helpers.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Web.Http.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Web.Http.WebHost.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Web.Mvc.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Web.Optimization.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Web.Razor.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Web.WebPages.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\WebGrease.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Newtonsoft.Json.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Web.Helpers.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Web.Mvc.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Web.Optimization.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Web.Razor.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Web.WebPages.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Antlr3.Runtime.pdb
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Net.Http.Formatting.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Web.Http.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\System.Web.Http.WebHost.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\EntityFramework.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\EntityFramework.SqlServer.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.Owin.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.Owin.Security.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\System.Web.Http.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\EntityFramework.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\obj\Debug\notes.csprojResolveAssemblyReference.cache
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\obj\Debug\notes.dll
+C:\Users\Sokol\Documents\GitHub\Internet_Tech2016\MyWeb1\notes\obj\Debug\notes.pdb

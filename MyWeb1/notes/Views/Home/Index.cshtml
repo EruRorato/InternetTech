@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Web Notepads";
+    notes.Models.DataFactory.LoadNotes();
+}
+
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/knockout-3.4.0.js"></script>
+    <script src="~/Scripts/Notepad.js"></script>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div class="CreateNotepad">
+        <form class="form-inline">
+            <div class="form-group">
+                <div class="input-group">
+                    <div class="input-group-addon">Notepad Name: </div>
+                    <input type="text" class="form-control" id="exampleInputAmount" placeholder="Name" data-bind="value: noteName">
+                    <button class="btn btn-primary" data-bind="click: createNote">Create</button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="NoteText">
+        <div class="imgcenter">
+            <img data-bind="attr: { src: noteImg }" />
+        </div>
+        <textarea class="form-control" rows="15" data-bind="value: noteContent"></textarea>
+        <button class="btn btn-primary" data-bind="click: saveNote">Save</button>
+    </div>
+    <div class="existNotes" data-bind="foreach: noteArray">
+        <button class="btn btn-primary" data-bind="text: Label, attr: { name: Label },click: $parent.selectNote"></button>
+    </div>
+    
+    <script>
+        init();
+    </script>
+</body>
+</html>

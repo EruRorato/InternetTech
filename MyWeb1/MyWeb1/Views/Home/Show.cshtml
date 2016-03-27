@@ -1,0 +1,21 @@
+﻿@using (Html.BeginForm("Show", "Home", FormMethod.Get))
+{
+    <h2>Content show.</h2>
+    <p>To show content press "load" button.</p>
+    <button name="actionButton" value="load">Load</button>
+     <ul>
+        @if (ViewBag.textFilt != null)
+        {
+            if (ViewBag.textFilt.Count == 0)
+            {
+                <li>Empty</li>
+            }
+            foreach (var line in ViewBag.textFilt)
+             {
+                 <li>
+                     @Html.Raw(line.ToString())
+                 </li>
+             }
+        }
+    </ul>
+}
