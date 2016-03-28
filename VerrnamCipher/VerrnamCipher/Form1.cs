@@ -12,12 +12,11 @@ namespace VerrnamCipher
 {
     public partial class Form1 : Form
     {
-        string alph = "abcdefghijklmnopqrstuvwxyz1234567890-=_+~ ";
         Cipher cip;
         public Form1()
         {
             InitializeComponent();
-            cip = new Cipher(alph);
+            cip = new Cipher();
         }
 
 
@@ -25,7 +24,7 @@ namespace VerrnamCipher
         {
             Dictionary<char, int> alphabet = new Dictionary<char, int>();
             Dictionary<int, char> alphabet_r = new Dictionary<int, char>();
-            public Cipher(IEnumerable<char> InputAlphabet)
+            public Cipher()
             {
                 int idx = 0;
                 //Add dictionary symbols
