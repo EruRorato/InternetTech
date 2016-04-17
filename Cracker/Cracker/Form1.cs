@@ -48,7 +48,7 @@ namespace Cracker
             file.Close();
             label1.Text = "найдено: " + counter;
 
-            //part 2 поиск по маске фблржтьц  "-----т-ц". проверить regexp чтобы не было символов повторных
+            //part 2 поиск по маске фблржтьц  "-----т-ц". проверить чтобы не было символов повторных
             foreach (var str in strList)
             {
                 string tmp2 = "";
