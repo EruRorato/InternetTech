@@ -1,8 +1,9 @@
-﻿    using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
-
+using System.Web.Http.ModelBinding;
+using System.Web.Http.ModelBinding.Binders;
 namespace notes
 {
     public static class WebApiConfig
@@ -13,6 +14,8 @@ namespace notes
 
             // Маршруты веб-API
             config.MapHttpAttributeRoutes();
+
+            config.Services.Insert(typeof(ModelBinderProvider),0,new SimpleModelBinderProvider(typeof(Models.CreateBind.Note),new Models.CreateBind()));
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",

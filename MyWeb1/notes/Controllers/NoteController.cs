@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Net;
+using System.Net.Http;
 using System.Web.Http;
 using Newtonsoft.Json.Linq;
 
@@ -19,10 +20,13 @@ namespace notes.Controllers
         }
 
         [HttpPost]
-        public void CreateNote(JObject jo)
+        //public void CreateNote(JObject jo)
+        public HttpResponseMessage CreateNote(Models.CreateBind.Note newNote)
         {
-            var label = jo.GetValue("Label").ToString();
+            var label = newNote?.Label.ToString(); //jo.GetValue("Label").ToString();
             notes.Models.DataFactory.AddNote(label);
+            return new HttpResponseMessage(HttpStatusCode.OK);
+            
         }
         
         [HttpGet]
