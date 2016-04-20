@@ -189,6 +189,7 @@
     <Compile Include="Models\DataFactory.cs" />
     <Compile Include="Models\ImageFactory.cs" />
     <Compile Include="Models\LogTable.cs" />
+    <Compile Include="Models\mySection.cs" />
     <Compile Include="Models\Note.cs" />
     <Compile Include="Models\SqlFactory.cs" />
     <Compile Include="Models\SqlModel.cs" />

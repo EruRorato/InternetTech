@@ -31,5 +31,15 @@
         var label = '@ViewBag.Label'
         init(label);
     </script>
+
+    @if (notes.Models.mySection.Get().mode == "max")
+    {
+        <style>
+            input
+            {
+                max-width: 880px;
+            }
+        </style>
+    }
 </body>
 </html>
