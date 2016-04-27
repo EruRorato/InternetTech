@@ -1,0 +1,9 @@
+﻿id;logger
+1;In Controller: Home happened action: Index at: 27.04.2016 22:38:26
+2;Api: GET Url: http://localhost:50176/api/Note/getNotes at 27.04.2016 22:39:48
+3;In Controller: Home happened action: Img at: 27.04.2016 22:39:49
+4;Api: POST Url: http://localhost:50176/api/Note/GetNoteContent at 27.04.2016 22:39:52
+5;Api: POST Url: http://localhost:50176/api/Note/GetNoteContent at 27.04.2016 22:39:57
+6;In Controller: Home happened action: Img at: 27.04.2016 22:39:57
+7;Api: POST Url: http://localhost:50176/api/Note/GetNoteContent at 27.04.2016 22:39:59
+8;In Controller: Home happened action: Img at: 27.04.2016 22:39:59

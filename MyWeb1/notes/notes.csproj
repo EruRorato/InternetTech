@@ -188,6 +188,8 @@
     <Compile Include="Models\CreateBind.cs" />
     <Compile Include="Models\DataFactory.cs" />
     <Compile Include="Models\ImageFactory.cs" />
+    <Compile Include="Models\LogApiAttribute.cs" />
+    <Compile Include="Models\LogAttribute.cs" />
     <Compile Include="Models\LogTable.cs" />
     <Compile Include="Models\mySection.cs" />
     <Compile Include="Models\Note.cs" />

@@ -9,6 +9,7 @@ using Newtonsoft.Json.Linq;
 
 namespace notes.Controllers
 {
+    [Models.LogApi]
     public class NoteController : ApiController
     {
         
